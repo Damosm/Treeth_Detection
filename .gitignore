@@ -1,0 +1,10 @@
+# Ignoring weights files
+
+Yolo/yolo_custom_detection/yolov3_training_last(back).weights
+Yolo/yolo_custom_detection/yolov3_training_last
+
+# images
+
+crop/
+images_svm/
+
